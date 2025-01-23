@@ -20,6 +20,9 @@ A modern web application featuring a Next.js frontend with TypeScript and a Fast
 ## 🛠️ Installation
 clone this repository and run:
 
+cd backend
+uv venv
+cd ..
 pnpm install
 pnpm install:backend
 pnpm dev:all
